@@ -34,3 +34,6 @@ Case 5 : Total Income above 800000/- & age 60 or above (10% tax) :
 
 ![tax-calc-10](https://github.com/sherdilll/tax-calculator-app/assets/104316863/c6aad6bd-511d-4a77-8946-9896933b48f0)
 
+Installation Guide: 
+To run this project on your local device you should clone this repository and run it in a code editor like VS code.
+
